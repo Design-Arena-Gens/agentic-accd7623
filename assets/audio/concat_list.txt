@@ -1,0 +1,7 @@
+file '/tmp/codex-project-accd7623-7145-4b6b-96e8-e6dee701bad8/assets/audio/scene1.wav'
+file '/tmp/codex-project-accd7623-7145-4b6b-96e8-e6dee701bad8/assets/audio/scene2.wav'
+file '/tmp/codex-project-accd7623-7145-4b6b-96e8-e6dee701bad8/assets/audio/scene3.wav'
+file '/tmp/codex-project-accd7623-7145-4b6b-96e8-e6dee701bad8/assets/audio/scene4.wav'
+file '/tmp/codex-project-accd7623-7145-4b6b-96e8-e6dee701bad8/assets/audio/scene5.wav'
+file '/tmp/codex-project-accd7623-7145-4b6b-96e8-e6dee701bad8/assets/audio/scene6.wav'
+file '/tmp/codex-project-accd7623-7145-4b6b-96e8-e6dee701bad8/assets/audio/scene7.wav'

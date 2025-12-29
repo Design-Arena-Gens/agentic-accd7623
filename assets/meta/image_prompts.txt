@@ -1,0 +1,27 @@
+Scene 1: Hook
+Description: Rain-slicked 1940s Philadelphia street at night, glowing neon, looming rowhouses, noir lighting, cinematic realism, muted teals and ambers
+Prompt: A cinematic, rain-soaked Philadelphia street in 1949 with glowing neon lights reflecting on wet cobblestones, dark rowhouses looming, moody noir lighting, realistic style, 35mm film grain, subtle teal and amber palette
+
+Scene 2: Shadowed Past
+Description: Interior living room lit by streetlamp glow, silhouette of worried woman, shadows hinting at intruder, vintage furnishings, deep shadows, dramatic contrast
+Prompt: Inside a 1940s Philadelphia living room with vintage furnishings, one worried woman in silhouette lit by streetlamp glow, distant shadow hinting at an unseen intruder, dramatic chiaroscuro, cinematic realism
+
+Scene 3: Night of Disappearance
+Description: Staircase scene with young girl peeking through banister, tall figure carrying woman over shoulder, motion blur, suspenseful cinematic frame, dark warm tones
+Prompt: A tense cinematic frame of a young girl peeking through a staircase banister at a tall figure carrying a woman over his shoulder, 1940s interior, motion blur, warm yet dark tones, dramatic lighting, realistic style
+
+Scene 4: Sudden Silence
+Description: Empty bedroom with overturned phone, purse on vanity untouched, curtains billowing, eerie calm, noir palette
+Prompt: An empty 1940s bedroom with an overturned rotary phone, untouched purse on a vanity, curtains billowing from an open window, eerie calm, noir palette, cinematic realism
+
+Scene 5: Political Undertones
+Description: Newspaper clippings swirling in air, Philadelphia courthouse looming, shadowy figures in suits, smoky atmosphere, sepia tone
+Prompt: A surreal scene of 1940s newspaper clippings swirling before a looming Philadelphia courthouse with shadowy figures in suits, smoky atmosphere, sepia tones, cinematic collage style
+
+Scene 6: Lingering Witness
+Description: Close-up of young girl's tearful eyes reflecting doorway, ghostly overlay of missing mother, dreamy blur, emotional realism
+Prompt: A close-up of a young girl’s tearful eyes reflecting a dark doorway, ghostly overlay of a missing mother, dreamy depth of field, emotional realism, cool dusk tones
+
+Scene 7: Open Ending
+Description: Fade into empty city skyline at dawn, mist rising, question mark in clouds subtly formed, cinematic wide shot
+Prompt: A cinematic wide shot of a 1940s Philadelphia skyline at dawn with mist rising and clouds subtly forming a question mark, ethereal lighting, soft focus, evocative realism
